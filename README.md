@@ -34,12 +34,22 @@ Three Arduino-based embedded systems exercises programmed in C/C++ using the Ard
 
 **Files:** [`Arduino sketch`](Exercises/03-Seven-Segment-Counter/SevenSegmentCounter.ino) · [`Proteus project`](Exercises/03-Seven-Segment-Counter/Proteus3.pdsprj) · [Simulation video](Exercises/03-Seven-Segment-Counter/simulation-demo.mkv)
 
+
 ## Project Gallery
 
 <p align="center">
-  <img src="Images/Sequential-LED.png" width="30%" alt="Sequential LED">
-  <img src="Images/Potentiometer-Buzzer.png" width="30%" alt="Potentiometer and Buzzer">
-  <img src="Images/Seven-Segment.png" width="30%" alt="Seven-Segment Display">
+  <strong>1. Sequential LED System</strong><br>
+  <img src="Images/Sequential-LED.png" width="70%" alt="Sequential LED System">
+</p>
+
+<p align="center">
+  <strong>2. Potentiometer-Based LED and Buzzer Controller</strong><br>
+  <img src="Images/Potentiometer-Buzzer.png" width="70%" alt="Potentiometer-Based LED and Buzzer Controller">
+</p>
+
+<p align="center">
+  <strong>3. Two-Digit Seven-Segment Counter</strong><br>
+  <img src="Images/Seven-Segment.png" width="70%" alt="Two-Digit Seven-Segment Counter">
 </p>
 
 ## Repository Structure
